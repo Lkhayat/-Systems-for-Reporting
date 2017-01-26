@@ -1,14 +1,9 @@
 
 	•	The domain “usastaffing.opm.gov” had the highest value for “avg_session_duration”
 
-	•	These domains had more than 50 page views:
+	•	These domains had more than 100 page views:
 ￼ Usatrade.census.gov
-Localcollections.nlm.nih.gov
-Sefsc.noaa.gov
-Streamstatsags.cr.usgs.gov
-Collectionsqa.nlm.nih.gov
-Usastaffing.opm.gov
-Etas.uspto.gov
+
 
 	▪	These NASA domains saw at least 100,000 visits:
 nasa.gov	
